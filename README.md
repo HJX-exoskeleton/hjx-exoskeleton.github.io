@@ -8,7 +8,7 @@
 # A simple Github Pages template for academic personal website.
 
 ## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/HJX-exoskeleton/hjx-exoskeleton.github.io/main/screenshot_full.png)](https://hjx-exoskeleton.github.io/)
+[![Screenshot of the Website](https://raw.githubusercontent.com/HJX-exoskeleton/hjx-exoskeleton.github.io/main/screenshot_full.jpg)](https://hjx-exoskeleton.github.io/)
 
 
 ## Introduction
