@@ -8,7 +8,7 @@
 # A simple Github Pages template for academic personal website.
 
 ## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
+[![Screenshot of the Website](https://raw.githubusercontent.com/HJX-exoskeleton/hjx-exoskeleton.github.io/main/screenshot_full.png)](https://hjx-exoskeleton.github.io/)
 
 
 ## Introduction
@@ -61,6 +61,8 @@ git push
 ### 3. Enjoy
 
 Fire up a browser and go to `https://<username>.github.io`
+
+My Homepage: `https://hjx-exoskeleton.github.io`
 
 
 
