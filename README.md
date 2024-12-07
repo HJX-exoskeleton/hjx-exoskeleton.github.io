@@ -62,6 +62,8 @@ git push
 
 Fire up a browser and go to `https://<username>.github.io`
 
+My Homepage: `https://hjx-exoskeleton.github.io`
+
 
 
 ## License
