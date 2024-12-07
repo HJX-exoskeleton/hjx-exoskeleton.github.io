@@ -1,13 +1,5 @@
-- National Scholarship of Graduate Student, 2024.
+- 2023学年研究生二等奖学金, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- 2024年江苏省研究生智能制造学术创新论坛(论文汇报)一等奖, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- 2024年外骨骼与人形机器人开发者交流论坛(专题报告)，2024.
