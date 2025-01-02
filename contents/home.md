@@ -1,6 +1,6 @@
 
 
-[![HJX-exoskeleton](https://img.shields.io/badge/HJX-exoskeleton-github-blue?logo=github)](https://github.com/HJX-exoskeleton)
+[![HJX-exoskeleton](https://img.shields.io/badge/HJX-exoskeleton--github-blue?logo=github)](https://github.com/HJX-exoskeleton)
 
 He is currently pursuing a Master's Degree in Mechanical Engineering, at School of Mechanical Engineering, Jiangnan University, China.
 
