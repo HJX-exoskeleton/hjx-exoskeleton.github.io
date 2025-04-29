@@ -12,7 +12,7 @@ M.E., Robot Engineering, Jiangnan University, 2023—2026 (expected).\
 B.E., Mechanism Design, Manufacture and Automation, Nanjing Institute of Technology, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence, Embodied Intelligence, Humanoid Robot,\
+Artificial Intelligence Generated Content, Embodied Intelligence, Humanoid Robot,\
 Imitation Learning, Reinforcement Learning, Exoskeleton, Fractal Gripper.
 
 #### Internship Experience
