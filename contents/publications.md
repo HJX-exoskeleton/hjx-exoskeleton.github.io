@@ -7,4 +7,6 @@
 
 - <strong>Jiaxin Huang</strong>, Fan Wu, Baoyi Ding, Jiasheng Yin, Guang Yang and Zhigong Song* (2025). A Low-Cost Upper Limb Exoskeleton Assistive Device Based on Elbow Torque Feedback. <strong>DYNA.</strong> [[Paper]](https://revistas.unal.edu.co/index.php/dyna/article/view/118635)
 
+- <strong>黄嘉昕</strong>, 刘涵裕, 马运圣, 沈健, 郑义林, 温嘉懿, 宋智功* (2025). 人形机器人设计与模仿学习：基于频域增强的扩散策略. <strong>《机器人》.</strong> [[Paper]](https://)
+
 - 硕士期间--发明专利授权2项, 实用新型专利授权2项, 另有发明专利在审8项.
