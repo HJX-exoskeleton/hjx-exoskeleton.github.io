@@ -7,6 +7,8 @@
 
 - <strong>Jiaxin Huang</strong>, Fan Wu, Baoyi Ding, Jiasheng Yin, Guang Yang and Zhigong Song* (2025). A Low-Cost Upper Limb Exoskeleton Assistive Device Based on Elbow Torque Feedback. <strong>DYNA.</strong> [[Paper]](https://revistas.unal.edu.co/index.php/dyna/article/view/118635)
 
+- Yilin Zheng, <strong>Jiaxin Huang</strong> and Zhigong Song* (2026).  A unified framework of a multi-modal, property-aware diffusion model for 3D reconstruction and on-demand design. <strong>Cell Reports Physical Science.</strong> [[Paper]](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00646-0)
+
 - <strong>Jiaxin Huang</strong>, Hanyu Liu, Yunsheng Ma, Jian Shen, Yilin Zheng, Jiayi Wen, Baishu Wan, Pan Li and Zhigong Song* (2025). FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers. <strong>ArXiv.</strong> [[Paper]](https://arxiv.org/abs/2509.11109)
 
 - Hanyu Liu, Yunsheng Ma, <strong>Jiaxin Huang</strong>, Keqiang Ren, Jiayi Wen, Yilin Zheng, Baishu Wan, Pan Li, Jiejun Hou, Haoru Luan, Zhihua Wang and Zhigong Song* (2025). RoboMatch: A Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks. <strong>ArXiv.</strong> [[Paper]](https://arxiv.org/abs/2509.08522)
