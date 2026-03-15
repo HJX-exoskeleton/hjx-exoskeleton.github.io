@@ -11,10 +11,10 @@
 
 - <strong>Jiaxin Huang</strong>, Hanyu Liu, Yunsheng Ma, Jian Shen, Yilin Zheng, Jiayi Wen, Baishu Wan, Pan Li and Zhigong Song* (2025). FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers. <strong>ArXiv.</strong> [[Paper]](https://arxiv.org/abs/2509.11109)
 
-- Hanyu Liu, Yunsheng Ma, <strong>Jiaxin Huang</strong>, Keqiang Ren, Jiayi Wen, Yilin Zheng, Baishu Wan, Pan Li, Jiejun Hou, Haoru Luan, Zhihua Wang and Zhigong Song* (2025). RoboMatch: A Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks. <strong>ArXiv.</strong> [[Paper]](https://arxiv.org/abs/2509.08522)
+- Hanyu Liu, Yunsheng Ma, <strong>Jiaxin Huang</strong>, Keqiang Ren, Jiayi Wen, Yilin Zheng, Baishu Wan, Pan Li, Jiejun Hou, Haoru Luan, Zhihua Wang and Zhigong Song* (2025). RoboMatch: A Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks. <strong>Accepted 2026 ICRA.</strong> [[Paper]](https://arxiv.org/abs/2509.08522)
 
 - <strong>黄嘉昕</strong>, 刘涵裕, 马运圣, 沈健, 郑义林, 温嘉懿, 宋智功* (2025). 人形机器人设计与模仿学习：基于频域增强的扩散策略. <strong>《机器人》.</strong> [[Paper]](https://)
 
 - 马运圣, 刘涵裕, <strong>黄嘉昕</strong>, 温嘉懿, 郑义林, 任轲强, 蹇涛, 王志华, 宋智功* (2025). 触觉分形夹爪：面向力反馈遥操作抓取的设计与应用. <strong>《机器人》.</strong> [[Paper]](https://)
 
-- 硕士期间--发明专利授权3项, 实用新型专利授权2项, 另有发明专利在审8项.
+- 硕士期间--发明专利授权6项, 另有发明专利在审4项.
