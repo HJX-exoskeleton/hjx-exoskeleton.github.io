@@ -7,14 +7,16 @@
 
 - <strong>Jiaxin Huang</strong>, Fan Wu, Baoyi Ding, Jiasheng Yin, Guang Yang and Zhigong Song* (2025). A Low-Cost Upper Limb Exoskeleton Assistive Device Based on Elbow Torque Feedback. <strong>DYNA.</strong> [[Paper]](https://revistas.unal.edu.co/index.php/dyna/article/view/118635)
 
-- Yilin Zheng, <strong>Jiaxin Huang</strong> and Zhigong Song* (2026).  A unified framework of a multi-modal, property-aware diffusion model for 3D reconstruction and on-demand design. <strong>Cell Reports Physical Science.</strong> [[Paper]](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00646-0)
+- Yilin Zheng, <strong>Jiaxin Huang</strong> and Zhigong Song* (2026). A unified framework of a multi-modal, property-aware diffusion model for 3D reconstruction and on-demand design. <strong>Cell Reports Physical Science.</strong> [[Paper]](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00646-0)
 
 - <strong>Jiaxin Huang</strong>, Hanyu Liu, Yunsheng Ma, Jian Shen, Yilin Zheng, Jiayi Wen, Baishu Wan, Pan Li and Zhigong Song* (2025). FEWT: Improving Humanoid Robot Perception with Frequency-Enhanced Wavelet-based Transformers. <strong>ArXiv.</strong> [[Paper]](https://arxiv.org/abs/2509.11109)
 
 - Hanyu Liu, Yunsheng Ma, <strong>Jiaxin Huang</strong>, Keqiang Ren, Jiayi Wen, Yilin Zheng, Baishu Wan, Pan Li, Jiejun Hou, Haoru Luan, Zhihua Wang and Zhigong Song* (2025). RoboMatch: A Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks. <strong>Accepted 2026 ICRA.</strong> [[Paper]](https://arxiv.org/abs/2509.08522)
 
+- Yangyang Peng, Fengxin Sun, Jiayi Wen, <strong>Jiaxin Huang</strong> and Ruru Pan* (2026). Hierarchically Structured E-Textiles with Embodied Multimodal Signal Decoupling for Conformable Sensing Interfaces. <strong>Advanced Functional Materials.</strong> [[Paper]](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.75532)
+
 - <strong>黄嘉昕</strong>, 刘涵裕, 马运圣, 沈健, 郑义林, 温嘉懿, 宋智功* (2025). 人形机器人设计与模仿学习：基于频域增强的扩散策略. <strong>《机器人》.</strong> [[Paper]](https://)
 
-- 马运圣, 刘涵裕, <strong>黄嘉昕</strong>, 温嘉懿, 郑义林, 任轲强, 蹇涛, 王志华, 宋智功* (2025). 触觉分形夹爪：面向力反馈遥操作抓取的设计与应用. <strong>《机器人》.</strong> [[Paper]](https://)
+- 马运圣, 刘涵裕, <strong>黄嘉昕</strong>, 温嘉懿, 郑义林, 任轲强, 蹇涛, 王志华, 宋智功* (2025). 触觉分形夹爪：面向力反馈遥操作抓取的设计与应用. <strong>《机器人》.</strong> [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=5qKCSu-RHiiZ82DdrInPylfXL2Ew5GwrB7mo-EYL_uFW69rOKvCHGGQ9WT_Ts4X9Coy0WTpSW4pDd9lI4v2cK_tVfuI69d3FNceBHCOkGiAf818Nbfe9fdR6hUMAH8bZ_egdcUyoRfcBsYTOQdXVLq5tRbq3Ofx6YKiMWENnp3-vUhnvMiPTLddkeham2SmBpjh3TU9LEHY&uniplatform=NZKPT&captchaId=392d5757-4e9a-42c0-afc4-85d7b53416a6)
 
-- 硕士期间--发明专利授权6项, 另有发明专利在审4项.
+- 硕士期间--发明专利授权7项, 另有发明专利在审3项.
